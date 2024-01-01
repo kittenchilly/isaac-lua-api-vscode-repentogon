@@ -1,6 +1,6 @@
 {
     "name": "isaac-lua-api-vscode-repentogon",
-    "publisher": "Syntax-Sculptor",
+    "publisher": "SyntaxSculptor",
     "displayName": "Binding of Isaac Lua API",
     "description": "A fork of Filoax's Isaac Lua API VSCode to work with REPENTOGON, an Isaac Lua Script Extender.",
     "version": "1.5.0",
