@@ -2,7 +2,7 @@
 
 # Binding of Isaac Lua API
 
-A VSCode Extension to add support and autocomplete for the The Binding of Isaac: Repentance modding API to the Lua Language Server by Sumneko.
+A VSCode Extension to add support and autocomplete for The Binding of Isaac: Repentance modding API to the Lua Language Server by Sumneko.
 
 [![Open in VSCode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/Filloax/isaac-lua-api-vscode) [![Build Status](https://github.com/ManticoreGamesInc/vscode-core/workflows/CI/badge.svg)](https://github.com/Filloax/isaac-lua-api-vscode/actions?workflow=CI) [![Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Filloax.isaac-lua-api-vscode?label=Visual%20Studio%20Marketplace&logo=visual-studio-code "Current Version")](https://marketplace.visualstudio.com/items?itemName=Filloax.isaac-lua-api-vscode)
 
