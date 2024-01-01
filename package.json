@@ -1,7 +1,7 @@
 {
     "name": "isaac-lua-api-vscode-repentogon",
     "publisher": "SyntaxSculptor",
-    "displayName": "Binding of Isaac Lua API",
+    "displayName": "Binding of Isaac REPENTOGON API",
     "description": "A fork of Filoax's Isaac Lua API VSCode to work with REPENTOGON, an Isaac Lua Script Extender.",
     "version": "1.5.0",
     "icon": "icon.png",
@@ -48,7 +48,7 @@
     },
     "contributes": {
         "configuration": {
-            "title": "The Binding of Isaac Lua API",
+            "title": "The Binding of Isaac: REPENTOGON API",
             "properties": {
                 "boi-lua.workspaceSettings": {
                     "type": "boolean",

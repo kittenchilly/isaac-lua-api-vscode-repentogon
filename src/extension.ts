@@ -11,7 +11,7 @@ import { getState } from './persist';
 
 const LUA_CONFIG_FILENAME = ".luarc.json";
 
-const CONFIG_EXT_ID = "boi-lua";
+const CONFIG_EXT_ID = "boi-lua-repentogon";
 
 export function activate(context: vscode.ExtensionContext) {
     const state = getState(context);
