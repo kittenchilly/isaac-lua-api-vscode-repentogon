@@ -178,6 +178,7 @@ export const ISAAC_GLOBALS = [
     "RegisterMod",
     "RenderMode",
     "REPENTANCE",
+    "REPENTOGON",
     "RetractingSpikesVariant",
     "Room",
     "RoomConfig",
