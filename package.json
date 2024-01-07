@@ -3,7 +3,7 @@
     "publisher": "SyntaxSculptor",
     "displayName": "Binding of Isaac REPENTOGON API",
     "description": "A fork of Filoax's Isaac Lua API VSCode to work with REPENTOGON, an Isaac Lua Script Extender.",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "icon": "icon.png",
     "repository": {
         "type": "git",
