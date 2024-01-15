@@ -50,7 +50,7 @@
         "configuration": {
             "title": "The Binding of Isaac: REPENTOGON API",
             "properties": {
-                "boi-lua.workspaceSettings": {
+                "boi-lua-repentogon.workspaceSettings": {
                     "type": "boolean",
                     "default": true,
                     "description": "Add some useful settings to the workspace settings.json (anm2 to XML association)."
@@ -59,11 +59,11 @@
         },
         "commands": [
             {
-                "command": "boi-lua.activate",
+                "command": "boi-lua-repentogon.activate",
                 "title": "Manually activate Isaac Lua autocompletion for this workspace"
             },
             {
-                "command": "boi-lua.deactivate",
+                "command": "boi-lua-repentogon.deactivate",
                 "title": "Manually deactivate Isaac Lua autocompletion for this workspace"
             }
         ]
